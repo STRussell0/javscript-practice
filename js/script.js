@@ -77,3 +77,15 @@ myButton.addEventListener('click', function() {
 
 console.log("Stephen");
 console.log("Curry");
+
+// Daily Challenge Day 2
+
+const a = 'Supercalifragilisticexpialidocious';
+const b = a.length;
+
+const bigint = BigInt(12345123451234512345123451234512345);
+
+
+console.log (b);
+console.log (typeof 14);
+console.log (typeof bigint);
